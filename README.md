@@ -1,0 +1,2 @@
+# KANAKO
+Just a fake
